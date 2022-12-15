@@ -18,4 +18,4 @@
 </p>
 
 <h4>if you want to see this project visit the following link</h4>
-<h4>https://pokemon-mamory-game-app.netlify.app</h4>
+<h4>https://pokemon-memory-game-app.netlify.app/</h4>
